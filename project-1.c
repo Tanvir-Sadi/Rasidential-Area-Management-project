@@ -32,7 +32,7 @@ void Login()
     printf("\tLogin as: ");
     printf("\n\t 1.Admin");
     printf("\n\t 2.Tenant");
-    if(0)
+    if()
     {
         MenuAdmin();
     }
@@ -88,14 +88,6 @@ void Payment()
 
 }
 void GenerateId()
-{
-
-}
-void MenuAdmin()
-{
-
-}
-void MenuTenant()
 {
 
 }
